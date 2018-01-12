@@ -1,0 +1,27 @@
+{
+  "name": "header-project",
+  "version": "1.0.0",
+  "description": "Second Excersice to backebd fcc",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cuauthli86/header-project.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "fcc"
+  ],
+  "author": "Cuauhtli Campos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Cuauthli86/header-project/issues"
+  },
+  "homepage": "https://github.com/Cuauthli86/header-project#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
